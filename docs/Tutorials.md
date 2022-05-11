@@ -11,6 +11,7 @@ For most purposes, you can use the [Live Editor](https://mermaid-js.github.io/me
 The definitions that can be generated the Live-Editor are also backwards-compatible as of version 8.7.0.
 
 [Chris Chinchilla: Hands on - Text-based diagrams with Mermaid](https://www.youtube.com/watch?v=4_LdV1cs2sA)
+
     Chris explores the Mermaid interface in real time. He's literally figuring it out on camera, which I guess is his schtick. 
 
 [GitLab Unfiltered: How to Create Mermaid Diagrams](https://www.youtube.com/watch?v=SQ9QmuTHuSI&t=438s)
