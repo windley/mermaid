@@ -9,7 +9,7 @@ For most purposes, you can use the [Live Editor](https://mermaid-js.github.io/me
 
 ## Live-Editor Tutorials
 The definitions that can be generated the Live-Editor are also backwards-compatible as of version 8.7.0.
-> I recommend you play with Mermaid using the Live-Editor. 
+> I recommend you play with Mermaid using the Live-Editor while reading the [Mermaid docs](https://mermaid-js.github.io/mermaid/#/). The LiveEditor will show you the diagram as you type. You can copy the Mermaid text to your Markdown doc later if you need to. 
 
 [Chris Chinchilla: Hands on - Text-based diagrams with Mermaid](https://www.youtube.com/watch?v=4_LdV1cs2sA)
 
@@ -17,7 +17,7 @@ The definitions that can be generated the Live-Editor are also backwards-compati
 
 [GitLab Unfiltered: How to Create Mermaid Diagrams](https://www.youtube.com/watch?v=SQ9QmuTHuSI&t=438s)
 
-> Giuliana Lucchesi from the GitLab shows how to use Mermaid to create diagrams in Gitlab. Gitlab includes support for Mermaid. Giulianna walks through her design process for flowcharts, graphs, diagrams, etc. She started in LucidChart, but moved to Mermaid because it can be iterated, versioned, etc. [Mermaid can be integrated](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/) in Github Markdown files as well. 
+> Giuliana Lucchesi from the GitLab shows how to use Mermaid to create diagrams in Gitlab. Gitlab includes support for Mermaid. Giulianna walks through her design process for flowcharts, graphs, diagrams, etc. She started in LucidChart, but moved to Mermaid because it can be iterated, versioned, etc. [Mermaid can be integrated](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/) in Github Markdown files as well. I found this useful for understanding posibilities. 
 
 [GitLab Unfiltered: Emilie adds a mermaid diagram to the handbook](https://www.youtube.com/watch?v=5RQqht3NNSE)
 
