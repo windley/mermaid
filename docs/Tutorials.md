@@ -17,6 +17,8 @@ The definitions that can be generated the Live-Editor are also backwards-compati
 
 [GitLab Unfiltered: How to Create Mermaid Diagrams](https://www.youtube.com/watch?v=SQ9QmuTHuSI&t=438s)
 
+> Giuliana Lucchesi from the GitLab shows how to use Mermaid to create diagrams in Gitlab. Gitlab includes support for Mermaid. Giulianna walks through her design process for flowcharts, graphs, diagrams, etc. She started in LucidChart, but moved to Mermaid because it can be iterated, versioned, etc. [Mermaid can be integrated](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/) in Github Markdown files as well. 
+
 [GitLab Unfiltered: Emilie adds a mermaid diagram to the handbook](https://www.youtube.com/watch?v=5RQqht3NNSE)
 
 [World of Zero: I Learn How To Build Flowcharts and Signal Diagram's in Mermaid.JS](https://www.youtube.com/watch?v=7_2IroEs6Is&t=207s)
