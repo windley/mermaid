@@ -21,9 +21,15 @@ The definitions that can be generated the Live-Editor are also backwards-compati
 
 [GitLab Unfiltered: Emilie adds a mermaid diagram to the handbook](https://www.youtube.com/watch?v=5RQqht3NNSE)
 
+> Emile solves a specific problem as a Mermaid newbie. Again, she's using the Live-Editor and looking at docs to get the results she wants. The pace is a little slow, but the concepts are clear. An interesting feature of this tutorial is that the diagram she creates is not hierarchical, but cyclical. This is realtively short, so it might be a good place to start. 
+
 [World of Zero: I Learn How To Build Flowcharts and Signal Diagram's in Mermaid.JS](https://www.youtube.com/watch?v=7_2IroEs6Is&t=207s)
 
-[Eddie Jaoude: Can you code your diagrams?](https://www.youtube.com/watch?v=9HZzKkAqrX8)
+> Another newbie exploration video. I think this is a good, short (~20 min) introduction to flowcharts and sequence diagrams. 
+
+[Eddie Jaoude: Can you code your diagrams?](https://www.youtube.com/watch?v=9HZzKkAqrX8?t=43)
+
+> Short (~6min) introduction to using Mermaid for sequence diagrams. 
 
 
 ## Mermaid with HTML
