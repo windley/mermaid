@@ -1,6 +1,6 @@
 # Tutorials
 
-This is  list of publicly available Tutorials for using Mermaid.JS, forked from the [Mermaid Github repo](https://mermaid-js.github.io/). This is intended as a basic introduction for the use of the Live Editor for generating diagrams, and deploying Mermaid.JS through HTML. [I](@windley) have added commentary as quotes based on my exploration. 
+This is  list of publicly available Tutorials for using Mermaid.JS, forked from the [Mermaid Github repo](https://mermaid-js.github.io/). This is intended as a basic introduction for the use of the Live Editor for generating diagrams, and deploying Mermaid.JS through HTML. I (@windley) have added commentary as quotes based on my exploration. 
 
 **Note that these tutorials might display an older interface, but the usage of the live-editor will largely be the same.**
 
