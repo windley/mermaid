@@ -11,9 +11,13 @@ For most purposes, you can use the [Live Editor](https://mermaid-js.github.io/me
 The definitions that can be generated the Live-Editor are also backwards-compatible as of version 8.7.0.
 > I recommend you play with Mermaid using the Live-Editor while reading the [Mermaid docs](https://mermaid-js.github.io/mermaid/#/). The LiveEditor will show you the diagram as you type. You can copy the Mermaid text to your Markdown doc later if you need to. 
 
-[Chris Chinchilla: Hands on - Text-based diagrams with Mermaid](https://www.youtube.com/watch?v=4_LdV1cs2sA)
+[Eddie Jaoude: Can you code your diagrams?](https://www.youtube.com/watch?v=9HZzKkAqrX8?t=43)
 
-> Chris explores the Mermaid interface in real time. He's literally figuring it out on camera, which I guess is his schtick. If you want a guided tour of the [Mermaid Docs](https://mermaid-js.github.io/mermaid/#/) and learn by watching other people try things, this is a useful tutorial. 
+> Short (~6min) introduction to using Mermaid for sequence diagrams. 
+
+[World of Zero: I Learn How To Build Flowcharts and Signal Diagram's in Mermaid.JS](https://www.youtube.com/watch?v=7_2IroEs6Is&t=207s)
+
+> Another newbie exploration video. I think this is a good, short (~20 min) introduction to flowcharts and sequence diagrams. 
 
 [GitLab Unfiltered: How to Create Mermaid Diagrams](https://www.youtube.com/watch?v=SQ9QmuTHuSI&t=438s)
 
@@ -23,13 +27,9 @@ The definitions that can be generated the Live-Editor are also backwards-compati
 
 > Emile solves a specific problem as a Mermaid newbie. Again, she's using the Live-Editor and looking at docs to get the results she wants. The pace is a little slow, but the concepts are clear. An interesting feature of this tutorial is that the diagram she creates is not hierarchical, but cyclical. This is realtively short, so it might be a good place to start. 
 
-[World of Zero: I Learn How To Build Flowcharts and Signal Diagram's in Mermaid.JS](https://www.youtube.com/watch?v=7_2IroEs6Is&t=207s)
+[Chris Chinchilla: Hands on - Text-based diagrams with Mermaid](https://www.youtube.com/watch?v=4_LdV1cs2sA)
 
-> Another newbie exploration video. I think this is a good, short (~20 min) introduction to flowcharts and sequence diagrams. 
-
-[Eddie Jaoude: Can you code your diagrams?](https://www.youtube.com/watch?v=9HZzKkAqrX8?t=43)
-
-> Short (~6min) introduction to using Mermaid for sequence diagrams. 
+> Chris explores the Mermaid interface in real time. He's literally figuring it out on camera, which I guess is his schtick. If you want a guided tour of the [Mermaid Docs](https://mermaid-js.github.io/mermaid/#/) and learn by watching other people try things, this is a useful tutorial. 
 
 
 ## Mermaid with HTML
